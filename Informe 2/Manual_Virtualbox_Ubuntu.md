@@ -113,5 +113,11 @@ Después de la instalación, realizar:
 
 ---
 
+## 6. 🎥 Videos de tutorial de la Instalación de Ubuntu Linux
+
+[🔗 Ver tutorial en YouTube](https://youtu.be/uuml3KjISo0)
+
+---
+
 ✍️ **Autor:** Marvin Francisco Paz Linares 
 📅 **Fecha:** 13/08/2025
